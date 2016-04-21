@@ -2,3 +2,5 @@
 **I Encontro de Informática do instituto Federal de rondônia**
 ###Versão###
 ***1.0***
+###AUTOR###
+***Charles Cavalcante***
